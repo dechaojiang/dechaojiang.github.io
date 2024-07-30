@@ -5,7 +5,7 @@ permalink: /photography/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
-display_categories: [phtography]
+display_categories: [photography]
 horizontal: false
 ---
 
