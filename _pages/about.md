@@ -23,5 +23,5 @@ I am a graduate student in Mechanical Engineering at `UC Berkeley`, focusing on 
 
 Before moving to the United States, I spent some time in Denmark, where I enjoyed cycling and capturing natural scenes with my camera. These are two leisure activities I am particularly passionate about.
 
-Feel free to explore my [photography](https://dechaojiang.github.io/projects/) and [project](https://dechaojiang.github.io/projects/) archives on this page.
+Feel free to explore my [photography](https://dechaojiang.github.io/photography/) and [project](https://dechaojiang.github.io/projects/) archives on this page.
 

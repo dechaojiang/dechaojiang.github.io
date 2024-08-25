@@ -8,7 +8,7 @@ category: Additive Manufacturing
 related_publications: false
 ---
 
-My gratitude to `Prof. Iek Man LEI`, who has been instrumental in guiding and supporting this independent research project.
+My gratitude to [Prof. Iek Man LEI](https://www.fst.um.edu.mo/people/ieklei/), who has been instrumental in guiding and supporting this independent research project.
 
 The frontier of 3D printing technology is advancing rapidly, especially in fabricating soft materials essential for biomedical engineering, soft robotics, wearable devices, and more. This new platform offers a revolutionary approach to 3D printing, outperforming conventional systems in material adaptability, printing speed, precision, and extendability. Additionally, this platform is cost-effective, priced under 100,000 MOP, making it significantly more affordable than comparable systems.
 

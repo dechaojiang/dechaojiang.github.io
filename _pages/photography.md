@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Photography
+title: photography
 permalink: /photography/
-description: A growing collection of your cool projects.
+description: A growing collection of my sight.
 nav: true
 nav_order: 4
-display_categories: [photography]
+display_categories: [Vida em Macau, dessert-desert Explorer]
 horizontal: false
 ---
 

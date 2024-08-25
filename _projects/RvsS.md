@@ -4,7 +4,7 @@ title: Reunion versus Seperation
 description: Photocollage dedicated to anyone who dares to wish for a better life during the pandemic
 img: assets/img/RvsS/Cover.jpg
 importance: 1
-category: photography
+category: Vida em Macau
 related_publications: false
 images:
   slider: true
