@@ -5,7 +5,7 @@ permalink: /photography/
 description: A growing collection of my sight.
 nav: true
 nav_order: 4
-display_categories: [Vida em Macau, dessert-desert Explorer]
+display_categories: [dessert-desert Explorer, Vida em Macau, Bay]
 horizontal: false
 ---
 

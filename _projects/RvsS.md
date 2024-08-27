@@ -11,13 +11,21 @@ images:
 ---
 
 # Preface
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/Preface.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/Preface2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RvsS/Preface.jpg" title="Preface" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RvsS/Preface2.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<br />
+<br />
 
 # Pieces
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-container keyboard="true" navigation="false" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="false" effect="cards">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/6.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -45,8 +53,11 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/30.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
+<br />
+<br />
+
 # Last
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-container keyboard="true" pagination="true" effect="coverflow" grab-cursor="true" centered-slides="true" slides-per-view="auto" autoplay-progress="true" coverflow-effect-rotate="85" coverflow-effect-stretch="0" coverflow-effect-depth="100" coverflow-effect-modifier="1" coverflow-effect-slide-shadows="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/32.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/Thanks.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/RvsS/Cover2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>

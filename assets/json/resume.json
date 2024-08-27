@@ -77,13 +77,13 @@
   ],
   "internship" : [
     {
-      "name": "SUIRUI Technology Group Co., Ltd (SUIRUI.AI Industrial Robot)",
+      "name": "SUIRUI Technology Group Co., Ltd (SUIRUI.AI Industrial Robot Beijing)",
       "position": "R&D Mechanical Engineer",
       "url": "https://www.suirui.com/list-123-1.html",
       "startDate": "2024-06",
       "endDate": "2024-07",
       "summary": "",
-      "highlights": []
+      "highlights": ["Conducted stress and thermal analysis on motor housings for explosion-proof inspection robots, providing feedback to structural designers.", "Designed track layouts and connection methods for rail inspection robots and performed dynamic stress analysis on the tracks."]
     }
   ],
   "volunteer": [
