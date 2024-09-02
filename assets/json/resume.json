@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "江德超 | Dechao Jiang",
-    "label": "Graduate Student",
     "image": "",
     "email": "dechao823@outlook.com", 
-    "phone": "(86) 188-0598-1916",
+    "phone": "+1 (510) 833-4373",
     "url": "https://dechaojiang.github.io",
-    "summary": "厚德载物，超凡脱俗 | With profound virtue, transcending the ordinary.",
+    "summary": "厚德载物，超凡脱俗",
     "location": {
       "address": "Walnut St",
       "postalCode": "CA 94709",
@@ -59,20 +58,21 @@
   "research" : [
     {
       "name": "Soft Matter Engineering Laboratory, UM",
-      "position": "Research & Development Assitant",
-      "url": "https://www.fst.um.edu.mo/personal/ieklei/",
+      "position": "3D Fused Deposition Modeling Printer",
+      "url": "https://dechaojiang.github.io/projects/fdm_printer/",
       "startDate": "2023-06",
       "endDate": "2024-05",
       "summary": "Designed and built a customizable 3D printer for soft material.",
-      "highlights": ["Please visit my project page for details"]
+      "highlights": ["3-axis gantry positioning with 10 μ m resolution", "Control software development for lab use: G-Code reading algorithm, syncing control module for pneumatic extruter and motion system, Finite-state machine-based Windows UI software"]
     },
     {
       "name": "Smart and Micro/Nano Systems Laboratory, UM",
-      "position": "Research Assitant",
-      "startDate": "2023-05",
-      "endDate": "2023-07",
-      "summary": "Project: Design and Development of Haptics-Based Robotic System for Dexterous Micromanipulation of Zebrafish Larvae",
-      "highlights": ["Utilized ROS, Rviz for Micromanipulator simulation" ]
+      "position": "Libot: Autonomous Mobile Manipulation Robot for Libraries",
+      "url": "https://dechaojiang.github.io/projects/Libot/",
+      "startDate": "2023-09",
+      "endDate": "2024-05",
+      "summary": "Libot is a mobile robot designed to automate tasks in libraries",
+      "highlights": ["Dean’s Honor List Award 2024", "Achieved deep learning based object detection and Grasp Pose Detection for pick-and-place", "Implemented p2p navigation leveraging the ROS navigation stack with hector-mapping SLAM algorithm" ]
     }
   ],
   "internship" : [
@@ -83,7 +83,16 @@
       "startDate": "2024-06",
       "endDate": "2024-07",
       "summary": "",
-      "highlights": ["Conducted stress and thermal analysis on motor housings for explosion-proof inspection robots, providing feedback to structural designers.", "Designed track layouts and connection methods for rail inspection robots and performed dynamic stress analysis on the tracks."]
+      "highlights": ["SolidWorks based Finite Element Analysis on both stress load deformation and thermal dissipation rate of motor shield for explosion-proof inspection robots, providing result to structural designers", "Designed track installation floor plan using AutoCAD and connection methods for rail inspection robots onsite project. Performed dynamic stress analysis to validate the material selection and track installation plan"]
+    },
+    {
+      "name": "Centre for Artificial Intelligence and Robotics (CAIR), Macao",
+      "position": "Research Assistant",
+      "url": "https://cair.ici.um.edu.mo/",
+      "startDate": "2023-06",
+      "endDate": "2024-06",
+      "summary": "",
+      "highlights": ["Led Procurement and Vendor Management: Successfully led the procurement of a 3-axis gantry positioning system, ensuring it was within budget. Sourced suppliers, communicated technical specifications for a customized design, and secured competitive quotations from three vendors", "Mechatronic System Integration: Established precise control over positioning system powered by ABB servos using a PWM control unit. Integrated the connection between the positioning system and a pneumatic extrusion outlet", "Software Development and System Control: Developed a desktop application for unified control of both positioning and pneumatic systems. The program reads G-Code and enables customized 3D printing operations"]
     }
   ],
   "volunteer": [
@@ -137,46 +146,11 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certificate of Honours College",
+      "date": "2024-06-17",
+      "issuer": "University  of Macau",
+      "url": "https://hc.um.edu.mo/about-hc/vision-mission/",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
