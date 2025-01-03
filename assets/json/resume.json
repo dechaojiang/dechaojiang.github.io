@@ -34,14 +34,13 @@
     },
     {
       "institution": "Bachelor of Science (Honours)",
-      "location": "Macao SAR, China",
+      "location": "Macao SAR",
       "url": "https://www.um.edu.mo/",
       "area": "Electromechanical Engineering",
       "studyType": "University of Macau",
       "startDate": "2020-08",
       "endDate": "2024-06",
-      "score": "3.6/4.0",
-      "courses": ["Statics, Dynamics, Strength of Materials","Control Theory, Mechatronics, Computer-Aided Design", "Fluid Mechanics, Finite Element Analysis, Lattice Boltzmann Method"]
+      "score": "3.6/4.0"
     },
     {
       "institution": "Semester Exchange",
@@ -50,8 +49,7 @@
       "area": "Robotek",
       "studyType": "University of Southern Denmark",
       "startDate": "2023-01",
-      "endDate": "2023-06",
-      "courses": ["Key courses in Robotics and Renewable Energy:", "Embedded Programming, Numerical Methods", "Renewable Hydrocarbons and Transport Sector Integration"]
+      "endDate": "2023-06"
     }
   ],
 
@@ -75,7 +73,14 @@
       "highlights": ["Dean’s Honor List Award 2024", "Achieved deep learning based object detection and Grasp Pose Detection for pick-and-place", "Implemented p2p navigation leveraging the ROS navigation stack with hector-mapping SLAM algorithm" ]
     }
   ],
-  "internship" : [
+  "professional" : [
+    {
+      "name": "Mechanical Systems Control Lab, UC Berkeley",
+      "position": "Robotics Engineer",
+      "startDate": "2024-09",
+      "summary": "",
+      "highlights": ["Designing and iterating on a flexible Degrees of Freedom (DoF) robot prototype using SolidWorks","Developed URDF models from CAD designs for software simulation in Timor/Gazebo to optimize design iterations and predict performance","Fabricating prototypes using 3D printing, validating concepts of flexible DoF by modularized design"]
+    },
     {
       "name": "SUIRUI Technology Group Co., Ltd (SUIRUI.AI Industrial Robot Beijing)",
       "position": "R&D Mechanical Engineer",
@@ -160,20 +165,6 @@
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
@@ -182,7 +173,9 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "C/ C++/ C#: Embedded Programming based on C, Unity Development Based on C#",
+        "C/ C++/ C#",
+        "Embedded Programming", 
+        "Unity Development",
         "Python",
         "MATLAB"
       ]
@@ -206,13 +199,13 @@
   ],
   "languages": [
     {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Bilingual",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Proficient",
+      "language": "Mandarin",
+      "fluency": "Bilingual",
       "icon": ""
     },
     {
