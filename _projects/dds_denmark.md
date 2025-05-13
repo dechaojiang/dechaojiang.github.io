@@ -3,8 +3,8 @@ layout: page
 title: dessert-desert Explorer
 description: dessert-desert Explorer - February 2023
 img: assets/img/denmark/01.jpg
-importance: 4
-category: dessert-desert Explorer
+importance: 5
+category: Visuals
 related_publications: false
 images:
   slider: true

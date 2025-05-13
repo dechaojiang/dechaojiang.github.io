@@ -3,8 +3,8 @@ layout: page
 title: Bay
 description: Let's get things started
 img: assets/img/Bay/bay1-3.jpg
-importance: 3
-category: Bay
+importance: 99
+category: Visuals
 related_publications: false
 images:
   slider: true

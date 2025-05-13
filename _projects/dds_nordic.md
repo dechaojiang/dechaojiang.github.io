@@ -4,7 +4,7 @@ title: Explore Nordic
 description: dessert-desert Explorer - March 2023
 img: assets/img/ExploreNordic/1.jpg
 importance: 3
-category: dessert-desert Explorer
+category: Visuals
 related_publications: false
 images:
   slider: true

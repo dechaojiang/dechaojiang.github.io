@@ -56,6 +56,18 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Selected projects -->
+    <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Selected Projects</a>
+    </h2>
+    {% include selected_projects.liquid %}
+
+    <!-- Selected projects -->
+    <h2>
+        <a href="{{ '/photography/' | relative_url }}" style="color: inherit">Selected Visuals</a>
+    </h2>
+    {% include selected_photos.liquid %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>

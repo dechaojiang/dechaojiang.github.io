@@ -2,9 +2,9 @@
 layout: page
 title: Libot
 description: Autonomous Mobile Manipulation Robot for Libraries
-img: assets/img/Libot/Libot_outline_demo.jpg
+img: assets/img/Libot/cover.gif
 importance: 1
-category: Robotics
+category: Projects
 related_publications: false
 tabs: trues
 images:

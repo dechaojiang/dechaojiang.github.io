@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 3D Fused Deposition Modeling Printer
+title: 3D FDM Printer
 description: For advanced functional soft material fabrication
-img: assets/img/FDM_Printer/cover.png
+img: assets/img/FDM_Printer/cover.gif
 importance: 1
-category: Additive Manufacturing
+category: Projects
 related_publications: false
 ---
 

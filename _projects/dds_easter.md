@@ -4,7 +4,7 @@ title: Easter March
 description: dessert-desert Explorer - April 2023
 img: assets/img/EasterMarch/01.jpg
 importance: 1
-category: dessert-desert Explorer
+category: Visuals
 related_publications: false
 images:
   slider: true

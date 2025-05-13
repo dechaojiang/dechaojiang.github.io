@@ -3,8 +3,8 @@ layout: page
 title: Caprice échapper
 description: dessert-desert Explorer - May 2023
 img: assets/img/bonjour/01.jpg
-importance: 2
-category: dessert-desert Explorer
+importance: 4
+category: Visuals
 related_publications: false
 images:
   slider: true
