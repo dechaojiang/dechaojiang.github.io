@@ -47,7 +47,7 @@ Libot's hardware consists of three main modules: vision sensor, manipulator, and
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Hardware structure and Libot in simulation
 </div>
 
 

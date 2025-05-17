@@ -3,7 +3,7 @@ layout: page
 title: 3D FDM Printer
 description: For advanced functional soft material fabrication
 img: assets/img/FDM_Printer/cover.gif
-importance: 1
+importance: 0
 category: Projects
 related_publications: false
 ---
