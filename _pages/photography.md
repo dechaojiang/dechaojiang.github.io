@@ -1,7 +1,7 @@
 ---
 layout: page
 title: photography
-permalink: /photography/
+permalink: /visuals/
 description: A growing collection of my sight.
 nav: true
 nav_order: 4
@@ -10,27 +10,27 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
+<div class="visuals">
 {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
+  <!-- Display categorized visuals -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  {% assign categorized_visuals = site.visuals | where: "category", category %}
+  {% assign sorted_visuals = categorized_visuals | sort: "importance" %}
+  <!-- Generate cards for each visual -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
+    {% for project in sorted_visuals %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
+    {% for project in sorted_visuals %}
       {% include projects.liquid %}
     {% endfor %}
   </div>
@@ -41,22 +41,22 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_visuals = site.visuals | sort: "importance" %}
 
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each visual -->
 
 {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
+    {% for project in sorted_visuals %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
+    {% for project in sorted_visuals %}
       {% include projects.liquid %}
     {% endfor %}
   </div>

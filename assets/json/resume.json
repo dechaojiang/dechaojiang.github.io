@@ -3,8 +3,9 @@
     "name": "江德超 | Dechao Jiang",
     "image": "",
     "email": "dechao823@outlook.com", 
+    "email_0": "dcjiang@berkeley.edu",
     "phone": "+1 (510) 833-4373",
-    "url": "https://dechaojiang.github.io",
+    "LinkedIn": "https://www.linkedin.com/in/dechao-jiang-200984260/",
     "summary": "厚德载物，超凡脱俗",
     "location": {
       "address": "Walnut St",
@@ -12,21 +13,14 @@
       "city": "Berkeley",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "education": [
     {
       "institution": "Master of Engineering",
       "location": "Berkeley, CA, USA",
       "url": "https://www.berkeley.edu/",
-      "area": "Control of Robotic and Autonomus Systems (ME)",
+      "area": "Mechanical Engineering (Control of Robotic and Autonomus Systems)",
       "studyType": "University of California, Berkeley",
       "startDate": "2024-08",
       "endDate": "",
@@ -53,6 +47,43 @@
     }
   ],
 
+  "professional" : [
+    {
+      "name": "Mechanical Systems Control Lab, UC Berkeley",
+      "position": "Robotics Engineer",
+      "startDate": "2024-09",
+      "summary": "",
+      "highlights": ["Collaboratively designed modularized robot arm linkages using Autodesk Fusion.","Developed URDF models from CAD models for software simulation in Timor/Gazebo to predict performance and optimize design.","Fabricating prototypes using 3D printing, validating concepts of flexible DoF by modularized design"]
+    },
+    {
+      "name": "SUIRUI Technology Group, Beijing",
+      "position": "Mechanical Design Engineer Intern",
+      "url": "https://www.suirui.com/list-123-1.html",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "",
+      "highlights": ["Designed motor enclosure with DFM and GD&T principles for mass-produced grid inspection robot.", "Conducted thermal FEA using SolidWorks Simulation to analyze and optimize motor performance.", "Created BOMs and AutoCAD floor plans for 3 onsite rail inspection robot installation projects."]
+    },
+    {
+      "name": "Centre for Artificial Intelligence and Robotics (CAIR), Macao",
+      "position": "System Development Engineer",
+      "url": "https://cair.ici.um.edu.mo/",
+      "startDate": "2023-06",
+      "endDate": "2024-06",
+      "summary": "",
+      "highlights": ["Programmed a 3-axis motorized stage with 10-micrometers resolution using ABB PWM servos。", "Developed a pneumatic material extrusion system utilizing a microfluidic controller.", "Developed a Bio-Printing program with SDKs to synchronize positioning and pneumatic extrusion.","Designed G-Code parsing algorithms, converting G-Code to 3D-Printing motion commands."]
+    },
+    {
+      "name": "Smart and Micro/Nano Systems Lab, UM",
+      "position": "Research Assistant",
+      "url": "https://cair.ici.um.edu.mo/",
+      "startDate": "2022-07",
+      "endDate": "2024-04",
+      "summary": "",
+      "highlights": ["Designed a digital twin of a service robot for library use: Libot.", "Simulated and controlled a Libot in Gazebo within ROS network.", "Achieved successful rate of 92.3% in book detection and generated grasp pose through computer vision.","Integrated MoveIt path planning framework to UR5 Manipulator in Python.","Implemented Hector-mapping SLAM algorithm to achieve indoor navigation."]
+    }
+  ],
+
   "research" : [
     {
       "name": "Soft Matter Engineering Laboratory, UM",
@@ -73,33 +104,7 @@
       "highlights": ["Dean’s Honor List Award 2024", "Achieved deep learning based object detection and Grasp Pose Detection for pick-and-place", "Implemented p2p navigation leveraging the ROS navigation stack with hector-mapping SLAM algorithm" ]
     }
   ],
-  "professional" : [
-    {
-      "name": "Mechanical Systems Control Lab, UC Berkeley",
-      "position": "Robotics Engineer",
-      "startDate": "2024-09",
-      "summary": "",
-      "highlights": ["Designing and iterating on a flexible Degrees of Freedom (DoF) robot prototype using SolidWorks","Developed URDF models from CAD designs for software simulation in Timor/Gazebo to optimize design iterations and predict performance","Fabricating prototypes using 3D printing, validating concepts of flexible DoF by modularized design"]
-    },
-    {
-      "name": "SUIRUI Technology Group Co., Ltd (SUIRUI.AI Industrial Robot Beijing)",
-      "position": "R&D Mechanical Engineer",
-      "url": "https://www.suirui.com/list-123-1.html",
-      "startDate": "2024-06",
-      "endDate": "2024-07",
-      "summary": "",
-      "highlights": ["SolidWorks based Finite Element Analysis on both stress load deformation and thermal dissipation rate of motor shield for explosion-proof inspection robots, providing result to structural designers", "Designed track installation floor plan using AutoCAD and connection methods for rail inspection robots onsite project. Performed dynamic stress analysis to validate the material selection and track installation plan"]
-    },
-    {
-      "name": "Centre for Artificial Intelligence and Robotics (CAIR), Macao",
-      "position": "Research Assistant",
-      "url": "https://cair.ici.um.edu.mo/",
-      "startDate": "2023-06",
-      "endDate": "2024-06",
-      "summary": "",
-      "highlights": ["Led Procurement and Vendor Management: Successfully led the procurement of a 3-axis gantry positioning system, ensuring it was within budget. Sourced suppliers, communicated technical specifications for a customized design, and secured competitive quotations from three vendors", "Mechatronic System Integration: Established precise control over positioning system powered by ABB servos using a PWM control unit. Integrated the connection between the positioning system and a pneumatic extrusion outlet", "Software Development and System Control: Developed a desktop application for unified control of both positioning and pneumatic systems. The program reads G-Code and enables customized 3D printing operations"]
-    }
-  ],
+
   "volunteer": [
     {
       "organization": "Moon Chun Memorial College",

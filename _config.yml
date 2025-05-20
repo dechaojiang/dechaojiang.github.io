@@ -156,6 +156,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  visuals:
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
