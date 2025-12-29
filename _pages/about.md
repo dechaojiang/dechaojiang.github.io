@@ -16,10 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am:
-* A mountain bike enthusiast
-* A Mechanical/Robotics Engineer
-* A part-time photographer
-* A UMacau and UC Berkeley Alumnus
+How am I introduce myself?
+* ##  iPhone Product Design Engineer 
+* ## UMacau and UC Berkeley Alumnus
+* ## Polestar Driver
+* ## Photographer
 
-Me at a glance: [MyResume]({{ '/resume' | relative_url }})
+<!-- Me at a glance: [MyResume]({{ '/resume' | relative_url }}) -->
